@@ -3,26 +3,29 @@ body{
     background-color:rgb(190, 127, 248);
 
 }
+
 /* Make the header and footer a different color from the background */
 header{
     background-color: lightslategray;
-    /* Align the h1 containing your name in the center of the header*/
-    text-align: center;
 }
 footer{
     background-color:rgb(112, 242, 242);
-   
 }
- /* Make your p tag a different color and italic */
+
+/* Align the h1 containing your name in the center of the header*/
+h1{
+    text-align: center;
+}
+
+/* Make your p tag a different color and italic */
  p{
     font-style:italic;
     color: rgba(251, 114, 46, 0.893);
-    
  }
 
 /* Put a border around your image */
-img src{
-    border: 20px;
+img{
+    border: 10px solid;
     border-color: white;
 }
 /* Change the font-family of your list */
