@@ -27,6 +27,7 @@ h1{
 img{
     border: 10px solid;
     border-color: white;
+    border-radius: 5px;
 }
 /* Change the font-family of your list */
 ul{
