@@ -1,18 +1,22 @@
 /* Give your page a fun background color */
 body{
     background-color: slategray;
+    padding: 0;
+    margin: 0;
 
 }
 
 /* Make the header and footer a different color from the background */
 header{
     background-color: lightslategray;
-    padding: 24px 32px;
+    padding: 12px 32px;
     margin: 0;
     
 }
 footer{
     background-color:rgb(17, 67, 67);
+    padding: 12px 36px;
+    text-align: center;
 }
 
 /* Align the h1 containing your name in the center of the header*/
@@ -32,10 +36,11 @@ img{
     border: 10px solid;
     border-color: white;
     border-radius: 5px;
-    align: center;
+    
 }
 /* Change the font-family of your list */
 ul{
     font-family: Arial, 'Times New Roman';
     color: white;
+    text-align: center;
 }
