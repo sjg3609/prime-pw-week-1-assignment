@@ -3,15 +3,13 @@ body{
     background-color: slategray;
     padding: 0;
     margin: 0;
-
 }
 
 /* Make the header and footer a different color from the background */
 header{
     background-color: lightslategray;
     padding: 12px 32px;
-    margin: 0;
-    
+    margin: 0; 
 }
 footer{
     background-color:rgb(17, 67, 67);
@@ -36,7 +34,6 @@ img{
     border: 10px solid;
     border-color: white;
     border-radius: 5px;
-    
 }
 /* Change the font-family of your list */
 ul{
